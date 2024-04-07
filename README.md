@@ -7,69 +7,13 @@ Repo on Unity Shaders Study Case
 [Video demo of the project](https://youtu.be/RQRrxaGoJJc)
 # CHECK
 
-new update on the creation of shaders, new update on the creation of projects of game style code shaders, design, elements based on the structure of content creation, and content validation, effects and elements on model environmnet.
+This are the elements of code that would allow us to improve our workflow, this are the elements, that would allow us to 
+create more code examples, code examples, that could be used to create more games around the experience of typing, the experience that could create more field of work, necessary to personalize this field of work, the code examples that we try to create here are mainly directed to the creation of typing games.
+ 
 
+![](ScreenShootInGame/Game1.jpg)
 
-It appears that the language design within unity, does not allow const variable to be used and keep its constantness, for some reason the values that are used with in runtime are not the correct ones just by its ´const´ modifier, so instead if you want to make use of the values you must make them static, this is an exaple of what I am trying to explain.
+![](ScreenShootInGame/Game2.jpg)
 
-
-THIS IS SOMETHING REALLLY PARTICULAR!, we must take in consideratioon this representation, due to its error prone status.
-
-
-stickers for shaders
-cards of shaders.
-I need to create transitions 
-
-```c++
-
-    /////////////////////////////
-    // WORKS CORRECT
-    /////////////////////////////
-
-        static float time;
-        static float2 mouse;
-        static float2 resolution;
-        
-        static const int iters = 256;
-        
-        static const float origin_z = 0.0;
-        static const float plane_z = 4.0;
-        static const float far_z = 64.0;
-        
-        static const float step = (far_z - plane_z) / float(iters) * 0.025;
-        
-        static const float color_bound = 0.0;
-        static const float upper_bound = 1.0;
-        
-        static const float scale = 32.0;
-        
-        static const float disp = 0.25;
-```
-
-``` c++
-
-    /////////////////////////////
-    // !!!!!!!!!!!!!!!!!DOES NOT WORK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    /////////////////////////////
-
-        float time;
-        float2 mouse;
-        float2 resolution;
-        
-         const int iters = 256;
-        
-        const float origin_z = 0.0;
-        const float plane_z = 4.0;
-        const float far_z = 64.0;
-        
-        const float step = (far_z - plane_z) / float(iters) * 0.025;
-        
-        const float color_bound = 0.0;
-        const float upper_bound = 1.0;
-        
-        const float scale = 32.0;
-        
-        const float disp = 0.25;
-
-
-``
+ 
+ 
