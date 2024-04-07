@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stair
+  - WallRun
+  - Climb
+  - Fly
+  - FramePaint
+  - Wall
+  - TestMouse
+  - Animal
+  - Water
+  - Ladder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlaneText
+  - Water
+  - UI
+  - Ground
+  - Box
+  - Arrow
+  - TextCharToWords
+  - 
+  - 
+  - 
+  - 
+  - 
+  - BodyPart
+  - 
+  - 
+  - 
+  - 
+  - Animal
+  - 
+  - 
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Item
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: One
+    uniqueID: 2221056837
+    locked: 0

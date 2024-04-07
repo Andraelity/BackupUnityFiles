@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu Principal.unity
+    guid: 14ad17762dd5595419ecef3b713eeb04
+  - enabled: 1
+    path: Assets/Scenes/1-TranslationPair-1.unity
+    guid: 026c9bc02fcde1c41938ace75fcd6d0f
+  - enabled: 1
+    path: Assets/Scenes/2-TranslationList-2.unity
+    guid: 87c1b5d20329e9b498a6418bfb47d4db
+  - enabled: 1
+    path: Assets/Scenes/3-TranslationAppearance-3.unity
+    guid: 2868ff25e6b867b45a15ef1313584b9f
+  - enabled: 1
+    path: Assets/Scenes/4-TranslationWritingList-4.unity
+    guid: 467a542fcdcca0f4e95c136d18e83bf9
+  - enabled: 1
+    path: Assets/Scenes/5-TranslationSelection-5.unity
+    guid: 96b00979d7e44a949a7959fbbd2a6197
+  - enabled: 1
+    path: Assets/Scenes/6-TranslationBlocks-6.unity
+    guid: 55db8c7ea12403f45bd588b9ab8b4504
+  - enabled: 1
+    path: Assets/Scenes/7-TranslationCharToWords-7.unity
+    guid: 38ec03be55b48934582ae934afa7bb4a
+  - enabled: 1
+    path: Assets/Scenes/8-TranslationRunWords-8.unity
+    guid: eea3f93e83c5bee458b5af50a26fd55b
+  - enabled: 1
+    path: Assets/Scenes/9-TranslationPairSentences-9.unity
+    guid: 27fb1c110eeb0a04694cd0c26f88fa9d
+  - enabled: 1
+    path: Assets/Scenes/10-TranslationGridLetter-10.unity
+    guid: b8484c97d17ddf841a6fcaf6fcc8fbd3
+  - enabled: 1
+    path: Assets/Scenes/11-TranslationRandomPair-11.unity
+    guid: 3d3d776e3eddc744d8fc3ef60c260abf
+  m_configObjects: {}

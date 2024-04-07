@@ -1,0 +1,100 @@
+Hello, how are you?
+What's your name?
+Where are you from?
+How old are you?
+Nice to meet you.
+I'm sorry.
+Thank you very much.
+You're welcome.
+Excuse me.
+Can you help me, please?
+I don't understand.
+How much does it cost?
+Where is the bathroom?
+I'm hungry.
+I'm thirsty.
+I'm tired.
+I'm lost.
+Can you show me on the map?
+What time is it?
+Can you speak more slowly?
+I love you.
+Good morning.
+Good afternoon.
+Good evening.
+Have a nice day.
+How's the weather today?
+It's sunny.
+It's rainy.
+It's cloudy.
+It's hot.
+It's cold.
+What do you do for a living?
+Where do you work?
+I'm on vacation.
+I'm studying.
+I'm working.
+I'm traveling.
+Can I have the bill, please?
+Do you accept credit cards?
+Can I have a receipt?
+I need help.
+I'm sorry, I don't speak Portuguese well.
+How do you say... in Portuguese?
+Can you repeat that, please?
+Can you write it down?
+Where is the nearest ATM?
+Can you recommend a good restaurant?
+I'm allergic to...
+Can I have a glass of water, please?
+Cheers!
+How far is it to the nearest gas station?
+What's the W
+Can you recommend a good place to visit around here?
+Do you have any vegetarian options on the menu?
+I'd like to make a reservation for two, please.
+Could you pass me the salt, please?
+How do I get to the airport from here?
+Is there a pharmacy nearby?
+What's the best way to get downtown?
+Can you recommend a good hotel in the area?
+I'll have the same as him/her.
+Can I have a glass of red/white wine, please?
+What's the daily special?
+How do I say "thank you" in Portuguese?
+Do you have any local specialties on the menu?
+I'm allergic to peanuts. Is there any peanuts in this dish?
+Can you take a photo of us, please?
+Is there a public restroom nearby?
+Can I try this on?
+How much does this cost?
+Can I pay with credit card?
+Do you have any recommendations for local souvenirs?
+What's the best time to visit this attraction?
+Can you tell me more about the history of this place?
+I need a taxi to the airport, please.
+Can you recommend a good beach to relax?
+Where can I find a good place to listen to live music?
+Do you have any recommendations for hiking trails?
+What's the best way to get to the city center from here?
+Can you recommend a good place to watch the sunset?
+Can I have a menu, please?
+Do you serve breakfast all day?
+Can I have this to go, please?
+What's the weather forecast for tomorrow?
+Can you recommend a good spot for birdwatching?
+Are there any local festivals or events happening soon?
+Can you recommend a good spot for stargazing?
+Do you have any recommendations for local art galleries?
+Can you help me find a good place to rent a bicycle?
+I'm looking for a nice park to have a picnic. Can you recommend one?
+Do you offer any guided tours of the area?
+Can you recommend a good spot for snorkeling?
+What's the best way to get around the city?
+Can you recommend a good spot for whale watching?
+I'm looking for a good place to try local cuisine. Can you recommend one?
+How late are you open tonight?
+Do you offer any discounts for students/seniors?
+Can you recommend a good spot for kayaking?
+Do you have any recommendations for local markets or shops?
+Is there a good spot for fishing nearby?

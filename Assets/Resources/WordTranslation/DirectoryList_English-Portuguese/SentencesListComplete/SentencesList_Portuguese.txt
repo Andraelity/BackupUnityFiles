@@ -1,0 +1,100 @@
+Olá, como você está?
+Qual é o seu nome?
+De onde você é?
+Quantos anos você tem?
+Prazer em conhecê-lo(a).
+Desculpe.
+Muito obrigado/a.
+De nada.
+Com licença.
+Você pode me ajudar, por favor?
+Eu não entendo.
+Quanto custa?
+Onde fica o banheiro?
+Estou com fome.
+Estou com sede.
+Estou cansado/a.
+Estou perdido/a.
+Você pode me mostrar no mapa?
+Que horas são?
+Você pode falar mais devagar?
+Eu te amo.
+Bom dia.
+Boa tarde.
+Boa noite.
+Tenha um bom dia.
+Como está o tempo hoje?
+Está ensolarado.
+Está chovendo.
+Está nublado.
+Está quente.
+Está frio.
+O que você faz da vida?
+Onde você trabalha?
+Estou de férias.
+Estou estudando.
+Estou trabalhando.
+Estou viajando.
+Posso ter a conta, por favor?
+Vocês aceitam cartão de crédito?
+Posso ter um recibo?
+Eu preciso de ajuda.
+Desculpe, eu não falo bem português.
+Como se diz... em português?
+Você pode repetir, por favor?
+Você pode escrever?
+Onde fica o caixa eletrônico mais próximo?
+Você pode me recomendar um bom restaurante?
+Sou alérgico/a a...
+Posso ter um copo de água, por favor?
+Saúde!
+Quão longe fica o posto de gasolina mais próximo?
+i password? - Qual é a senha do Wi-Fi?
+Você pode recomendar um bom lugar para visitar por aqui?
+Vocês têm opções vegetarianas no cardápio?
+Eu gostaria de fazer uma reserva para duas pessoas, por favor.
+Você pode me passar o sal, por favor?
+Como chego ao aeroporto daqui?
+Tem uma farmácia por perto?
+Qual é a melhor maneira de ir para o centro?
+Você pode recomendar um bom hotel na região?
+Vou querer o mesmo que ele/ela.
+Posso ter um copo de vinho tinto/branco, por favor?
+Qual é o prato especial do dia?
+Como se diz "obrigado" em português?
+Vocês têm alguma especialidade local no cardápio?
+Sou alérgico/a a amendoim. Tem algum amendoim neste prato?
+Você pode tirar uma foto nossa, por favor?
+Tem um banheiro público por perto?
+Posso experimentar isso?
+Quanto custa isso?
+Posso pagar com cartão de crédito?
+Você tem alguma recomendação de souvenir local?
+Qual é o melhor horário para visitar essa atração?
+Você pode me contar mais sobre a história deste lugar?
+Preciso de um táxi para o aeroporto, por favor.
+Você pode recomendar uma boa praia para relaxar?
+Onde posso encontrar um bom lugar para ouvir música ao vivo?
+Você tem alguma recomendação de trilhas para caminhada?
+Qual é a melhor maneira de ir para o centro da cidade daqui?
+Você pode recomendar um bom lugar para assistir ao pôr do sol?
+Posso ter um cardápio, por favor?
+Vocês servem café da manhã o dia todo?
+Posso levar isso para viagem, por favor?
+Qual é a previsão do tempo para amanhã?
+Você pode recomendar um bom local para observar pássaros?
+Existem festivais ou eventos locais acontecendo em breve?
+Você pode recomendar um bom lugar para observar as estrelas?
+Você tem alguma recomendação de galerias de arte locais?
+Você pode me ajudar a encontrar um bom lugar para alugar uma bicicleta?
+Estou procurando um parque legal para fazer um piquenique. Você pode recomendar um?
+Vocês oferecem algum tour guiado pela região?
+Você pode recomendar um bom local para fazer snorkel?
+Qual é a melhor maneira de se locomover pela cidade?
+Você pode recomendar um bom lugar para observar baleias?
+Estou procurando um bom lugar para experimentar a culinária local. Você pode recomendar um?
+Até que horas vocês estão abertos hoje à noite?
+Vocês oferecem algum desconto para estudantes/idosos?
+Você pode recomendar um bom lugar para fazer caiaque?
+Você tem alguma recomendação de mercados ou lojas locais?
+Tem um bom lugar para pescar por perto?
